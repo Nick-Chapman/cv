@@ -11,6 +11,12 @@ Extensive experience developing tools and systems, including compilation, type-c
 
 My computing interests include: Functional Programming, Static Typing, Continuations, Lambda Calculus, Compilation, Language Transformation, Type inference and Parsing. I'm also Interested in Natural Language Processing, and Emulation.
 
+Some of my personal projects are hosted here on github. For example:
+- [Arcade Space Invaders: 8080 emulator & static recompiler](https://github.com/Nick-Chapman/space-invaders)
+- [Z-machine Interpreter and static recompiler](https://github.com/Nick-Chapman/zagain)
+- [sham/MeNicks: command shell running on a simulated unix-style OS](https://github.com/Nick-Chapman/sham)
+- [Compilation pipeline for a small functional language ](https://github.com/Nick-Chapman/fun-execution)
+- [Monadic combinators for Earley Parsing](https://github.com/Nick-Chapman/EarleyM)
 
 ## Work Experience
 
