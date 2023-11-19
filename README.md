@@ -1,17 +1,18 @@
 
 # Nick Chapman
 
-Functional Programmer: Languages, Compilers and Execution
+Software Engineer: Languages, Compilers and Execution.
 
 ## Skills
 
-Functional Programmer. (Haskell, Scala, Ocaml, F#, ...)
+Haskell, Scala, Ocaml, C++, Rust, Go, Forth, ...
 
 Extensive experience developing tools and systems, including compilation, type-checking, build systems and continuous integration. I have worked on trading systems and systems for post-trade reporting. Previous experience in EDA, specifically compilation of Verilog for Formal Verification.
 
 My computing interests include: Functional Programming, Static Typing, Continuations, Lambda Calculus, Compilation, Language Transformation, Type inference and Parsing. I'm also Interested in Natural Language Processing, and Emulation.
 
 Some of my personal projects are hosted here on github. For example:
+- [Quarter Forth](https://github.com/Nick-Chapman/quarter-forth)
 - [Arcade Space Invaders: 8080 emulator & static recompiler](https://github.com/Nick-Chapman/space-invaders)
 - [Z-machine Interpreter and static recompiler](https://github.com/Nick-Chapman/zagain)
 - [sham/MeNicks: command shell running on a simulated unix-style OS](https://github.com/Nick-Chapman/sham)
@@ -21,7 +22,7 @@ Some of my personal projects are hosted here on github. For example:
 ## Work Experience
 
 ### Digital Asset (Contractor)
-- Apr 2019 - Present
+- Apr 2019 - October 2023
 - Compiler Engineer, Daml Language team.
 - Working on language compilation and runtime execution. Coding in Haskell and Scala.
 
