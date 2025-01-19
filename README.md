@@ -5,7 +5,7 @@ Software Engineer: Languages, Compilers and Execution.
 
 ## Skills
 
-Haskell, Scala, Ocaml, C++, Rust, Go, Forth, ...
+Haskell, Ocaml, Scala, C++, Rust, Go, Forth, ...
 
 Extensive experience developing tools and systems, including compilation, type-checking, build systems and continuous integration. I have worked on trading systems and systems for post-trade reporting. Previous experience in EDA, specifically compilation of Verilog for Formal Verification.
 
@@ -13,19 +13,22 @@ My computing interests include: Functional Programming, Static Typing, Continuat
 
 Some of my personal projects and explorations here on github:
 - [NeoMeteors](https://github.com/Nick-Chapman/neometeors)
-- [Quarter Forth](https://github.com/Nick-Chapman/quarter-forth)
-- [Exploring LLVM](https://github.com/Nick-Chapman/nell)
+- [Quarter Forth](https://github.com/Nick-Chapman/quarter-forth) [blog](https://nick-chapman.github.io/blog)
 - [Homebrew 8-bit computer (Ben Eater inspired)](https://github.com/Nick-Chapman/nic8)
 - [Homebrew 6502 computer (Ben Eater inspired) + s/w garbage collector](https://github.com/Nick-Chapman/nic8/tree/main/6502)
 - [Arcade Space Invaders: 8080 emulator & static recompiler](https://github.com/Nick-Chapman/space-invaders)
 - [Z-machine Interpreter and static recompiler](https://github.com/Nick-Chapman/zagain)
 - [sham/MeNicks: command shell running on a simulated unix-style OS](https://github.com/Nick-Chapman/sham)
 - [Compilation pipeline for a small functional language ](https://github.com/Nick-Chapman/fun-execution)
-- [Exploring Ray Tracing](https://github.com/Nick-Chapman/nray)
 - [Monadic combinators for Earley Parsing](https://github.com/Nick-Chapman/EarleyM)
 - [(Very old) Own compiler for Standard ML](https://github.com/Nick-Chapman/nml)
 
 ## Work Experience
+
+### Ahrefs (Contractor)
+- May 2024 - Present
+- Software Engineer, SRE team.
+- Monitoring and deployment system. Coding in Ocaml.
 
 ### Digital Asset (Contractor)
 - Apr 2019 - October 2023
