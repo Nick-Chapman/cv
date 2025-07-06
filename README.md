@@ -26,7 +26,7 @@ Some of my personal projects and explorations here on github:
 ## Work Experience
 
 ### Ahrefs (Contractor)
-- May 2024 - Present
+- May 2024 - March 2025
 - Software Engineer, SRE team.
 - Monitoring and deployment system. Coding in Ocaml.
 
